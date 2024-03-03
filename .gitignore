@@ -1,0 +1,4 @@
+.vscode/*
+collatz
+*.dot
+*.svg
